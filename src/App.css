@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  padding: 20 px;
+}
+.card-text{
+  font-size: 10px;
+}
+.banner{
+  background: rgb(27,124,125);
+background: linear-gradient(90deg, rgba(27,124,125,1) 7%, rgba(2,0,36,1) 49%, rgba(38,122,139,1) 97%);
+}
+.strike{
+  text-decoration: line-through;
+  font-size: 10px;
+}
