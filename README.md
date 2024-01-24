@@ -1,3 +1,7 @@
+This React-based shopping cart project provides users with an interactive and dynamic shopping experience, allowing them to manage their cart easily by adding and removing items. I achieved it by creating 3 components named Card.jsx, Cart.jsx, and App.jsx(the Parent Component). The CartQuantity in the Cart is Achieved by me using useState.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
